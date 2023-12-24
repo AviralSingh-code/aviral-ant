@@ -1,42 +1,49 @@
 <h1 align="center" id="title">Campaign Planner</h1>
 
-<p id="description">This innovative app combines the robustness of Next.js with the AI prowess of GenAI (OpenAI) to redefine advertising campaign planning. It simplifies the process for brand managers suggesting precise budget distributions across various mediums—Newspapers Radio and Digital. Seamlessly recommending specific ad styles and durations our tool generates comprehensive reports empowering informed decisions. It's the ultimate solution for strategizing impactful ad campaigns maximizing reach and ensuring effective audience engagement.</p>
+<p id="description">Introducing an groundbreaking application that merges the strength of Next.js with the advanced AI capabilities of GenAI (OpenAI), revolutionizing the landscape of advertising campaign planning. This app streamlines the workflow for brand managers by proposing accurate budget allocations across diverse platforms—Newspapers, Radio, and Digital. With the ability to seamlessly suggest tailored ad styles and durations, our tool produces detailed reports that empower users to make well-informed decisions. It stands as the ultimate solution for crafting impactful ad campaigns, optimizing reach, and guaranteeing compelling audience engagement.</p>
 
-<h2>🚀 Demo</h2>
+<h2>🚀 Deployed Application</h2>
 
 [https://anmol-gen-ai.vercel.app/](https://anmol-gen-ai.vercel.app/)
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/boltcode1/Anmol_GenAi/assets/88079023/2b9878f5-2d04-40bb-ac28-91b4d12f0fb1" alt="project-screenshot">
-<img src="https://github.com/boltcode1/Anmol_GenAi/assets/88079023/c50f2a45-12c4-401d-9eb3-fc8bbef5b9a0" alt="project-screenshot">
+<img width="947" alt="a1" src="https://github.com/AviralSingh-code/aviral-ant/assets/72146088/94c3584a-b69f-4fa9-a3a8-7419e6451f28">
+
+<img width="947" alt="a2" src="https://github.com/AviralSingh-code/aviral-ant/assets/72146088/e0bb3fe5-4993-401a-aa59-845e0ea70703">
 
   
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
 
-*   AI-Powered Budget Allocation: The AI intelligently allocates resources based on the specified budget suggesting ideal budget distributions across various advertising mediums like Newspapers Radio and Digital ads.
-*   Comprehensive Reports: The app generates detailed reports providing a breakdown of budget allocations specific ad concepts for TV Newspapers Radio and Digital ads facilitating informed decision-making.
-*   Date-Wise Campaign Plans: The tool creates date-wise plans for the campaign specifying when and where each ad should be displayed ensuring a structured and organized advertising timeline.
-*   Platform-Specific Recommendations: Tailored recommendations for advertising platforms (e.g. Hotstar The Hindu Red FM) with specific ad ideas suitable for each platform enhancing engagement and outreach.
-*   GenAI Integration: Utilizing GenAI (OpenAI) technology for advanced AI capabilities facilitating smart planning and providing insightful recommendations tailored to the campaign's objectives.
+*   Smart Budget Allocation with AI: Our AI-powered system intelligently allocates resources within the defined budget, proposing optimal distribution across diverse advertising channels such as Newspapers, Radio, and Digital ads.
+*   Detailed Analytical Reports: The application generates comprehensive reports that break down budget allocations and present specific ad concepts for TV, Newspapers, Radio, and Digital ads. This enables users to make well-informed decisions.
+*   Organized Campaign Schedules: The tool establishes organized, date-wise plans for the advertising campaign, specifying when and where each ad should be showcased. This ensures a structured and well-planned advertising timeline.
+*   Tailored Recommendations for Platforms: We offer personalized recommendations for advertising platforms (e.g., Hotstar, The Hindu, Red FM), providing specific ad ideas suitable for each platform. This enhances engagement and extends outreach.
+*   Seamless GenAI Integration: Leveraging GenAI (OpenAI) technology, our system incorporates advanced AI capabilities to facilitate intelligent planning and offer insightful recommendations tailored to the campaign's objectives.
 
 <h2>🛠️ Installation Steps:</h2>
 
 <p>1. Clone the repo</p>
 
 ```
-git clone "repo_link"
+git clone https://github.com/AviralSingh-code/aviral-ant.git
 ```
 
-<p>2. Run npm build</p>
+<p>2. Run
+
+```
+cd aviral-ant/
+```
+
+<p>2. Run command to install dependencies</p>
 
 ```
 npm install
 ```
 
-<p>3. Run npm dev</p>
+<p>3. Run command to start the app</p>
 
 ```
 npm run dev
@@ -54,58 +61,4 @@ Technologies used in the project:
 *   Tailwind CSS
 *   Recoil
 *   Axios
-<h1 align="center" id="title">Campaign Planner</h1>
 
-<p id="description">This innovative app combines the robustness of Next.js with the AI prowess of GenAI (OpenAI) to redefine advertising campaign planning. It simplifies the process for brand managers suggesting precise budget distributions across various mediums—Newspapers Radio and Digital. Seamlessly recommending specific ad styles and durations our tool generates comprehensive reports empowering informed decisions. It's the ultimate solution for strategizing impactful ad campaigns maximizing reach and ensuring effective audience engagement.</p>
-
-<h2>🚀 Demo</h2>
-
-[https://anmol-gen-ai.vercel.app/](https://anmol-gen-ai.vercel.app/)
-
-<h2>Project Screenshots:</h2>
-
-
-
-  
-<h2>🧐 Features</h2>
-
-Here're some of the project's best features:
-
-*   AI-Powered Budget Allocation: The AI intelligently allocates resources based on the specified budget suggesting ideal budget distributions across various advertising mediums like Newspapers Radio and Digital ads.
-*   Comprehensive Reports: The app generates detailed reports providing a breakdown of budget allocations specific ad concepts for TV Newspapers Radio and Digital ads facilitating informed decision-making.
-*   Date-Wise Campaign Plans: The tool creates date-wise plans for the campaign specifying when and where each ad should be displayed ensuring a structured and organized advertising timeline.
-*   Platform-Specific Recommendations: Tailored recommendations for advertising platforms (e.g. Hotstar The Hindu Red FM) with specific ad ideas suitable for each platform enhancing engagement and outreach.
-*   GenAI Integration: Utilizing GenAI (OpenAI) technology for advanced AI capabilities facilitating smart planning and providing insightful recommendations tailored to the campaign's objectives.
-
-<h2>🛠️ Installation Steps:</h2>
-
-<p>1. Clone the repo</p>
-
-```
-git clone "repo_link"
-```
-
-<p>2. Run npm build</p>
-
-```
-npm install
-```
-
-<p>3. Run npm dev</p>
-
-```
-npm run dev
-```
-
-  
-  
-<h2>💻 Built with</h2>
-
-Technologies used in the project:
-
-*   Next.js
-*   OpenAI
-*   Git
-*   Tailwind CSS
-*   Recoil
-*   Axios
