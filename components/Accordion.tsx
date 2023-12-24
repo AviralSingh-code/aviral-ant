@@ -48,6 +48,12 @@ const Accordion = ({question, answer, turn, setTurn, idx}: Props) => {
         <Accordion4 question={question} answer={answer} turn={turn} setTurn={setTurn} idx={idx} />
       );
     }
+    else
+    {
+      return(
+        <div></div>
+      );
+    }
 }
 
 export default Accordion;

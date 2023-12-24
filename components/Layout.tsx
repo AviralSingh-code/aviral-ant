@@ -76,7 +76,7 @@ const Layout = ({handleClick, isSomeActive, data, turn, setTurn}:LayoutProps) =>
             console.log(response.data.responseMessage);
             const formattedOutput = response.data.responseMessage
               .split('\n') // Split the string into lines
-              .map((line, index) => (
+              .map((line: any, index: any) => (
                 <span key={index}>
                   {line}
                   <br /> {/* Add a line break after each line */}
