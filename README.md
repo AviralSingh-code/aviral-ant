@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Campaign Planner</h1>
+<h1 align="center" id="title">Ad Calendar</h1>
 
 <p id="description">Introducing an groundbreaking application that merges the strength of Next.js with the advanced AI capabilities of GenAI (OpenAI), revolutionizing the landscape of advertising campaign planning. This app streamlines the workflow for brand managers by proposing accurate budget allocations across diverse platforms—Newspapers, Radio, and Digital. With the ability to seamlessly suggest tailored ad styles and durations, our tool produces detailed reports that empower users to make well-informed decisions. It stands as the ultimate solution for crafting impactful ad campaigns, optimizing reach, and guaranteeing compelling audience engagement.</p>
 
