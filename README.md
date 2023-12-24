@@ -4,7 +4,8 @@
 
 <h2>🚀 Deployed Application</h2>
 
-[https://anmol-gen-ai.vercel.app/](https://anmol-gen-ai.vercel.app/)
+[https://aviral-ant.vercel.app/](https://aviral-ant.vercel.app/)
+
 
 <h2>Project Screenshots:</h2>
 
